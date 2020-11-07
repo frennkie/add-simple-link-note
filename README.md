@@ -33,11 +33,11 @@ injection) but most normal HTML tags can be used:
 
 * \<em>\</em> for italic
 * \<strong>\</strong> for bold
-* \<h2><\h2> for headlines
+* \<h2>\</h2> for headlines
 
-Please Note: The `body` is wrapped in a `<p>`...`</p>` section. So use an extra `</p>` 
-at the start and `<p>` at the end if you include your own tags like `h1-5`, `p` or 
-`div` in the `body`. 
+**Please Note**: The `body` is wrapped in a `<p>`...`</p>` section. So use an extra 
+`</p>` at the start and `<p>` at the end if you include your own tags like `h1-5`, `p` 
+or `div` (...) in the `body`. 
 
 
 ## Screenshots
